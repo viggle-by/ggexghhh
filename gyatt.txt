@@ -1,1 +1,1 @@
-https://debpkg.libranext.com/pub/ubuntu/pool/main/libranext-debpkg-keyring_2025_all.deb
+sudo apt install osiris originator osiris-dev-tools osiris-dev osiris-doc originator-doc
