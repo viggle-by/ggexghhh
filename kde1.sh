@@ -1,5 +1,6 @@
 #!/bin/bash
 
+sudo bash
 echo 'deb https://debpkg.libranext.com/pub/ubuntu-preview noble main' > /etc/apt/sources.list.d/libranext-preview.list
 exit
 sudo apt update
